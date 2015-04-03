@@ -1,38 +1,38 @@
-url:
-baseurl:
+# Title of your blog; shows in the header
+name: "Ian Adams"
 
-# Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+# Description of your content (will only be used on Google Search)
+description: "Ian Adams - Online Portfolio"
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: fed136
-  secondary: fec503  
-  secondary-dark: 333
+# Your name. Will show in your footer + sidebar 
+author: "Ian Adams"
 
-# Team names, titles and social links
+url: "http://ijadams.github.io"
+baseurl: "/"
 
+# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
+author-bio: "23-year old producer of web, audio, and visual things."
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+# Social Accounts (mine, as placeholders)
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+github: ijadams
 
-# Build settings
+# Google Analytics (you may want to changes these with yours or even delete :)
+
+ga_domain: ijadams.github.io
+ga_tracking_id: 
+
+# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
+
 markdown: kramdown
 permalink: pretty
+highlighter: pygments
+
+paginate: 10
+paginate_path: "/page/:num"
+
+# SCSS
+
+sass:
+  sass_dir: _scss
+  style: :compressed
