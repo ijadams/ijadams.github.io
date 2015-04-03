@@ -10,7 +10,7 @@
     }
 
     .p-wrap {
-      padding: $spacing-ml $spacing-m;
+      padding: $spacing-s $spacing-xs;
       background: $main-color; 
       transition: all .15s ease-in;
       &:active { 
@@ -39,6 +39,7 @@
 
     time {
       color: darken($main-color, 20%); 
+      font-weight:100;
       padding-right: $spacing-s;
       @media (max-width: 942px) {
         display: block;
@@ -78,3 +79,8 @@
       background-color: darken($smoke-color, 5%);
   }
 } // end .pagination
+
+
+#info {
+	padding: 0 $spacing-m $spacing-m $spacing-m;
+}
