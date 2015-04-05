@@ -10,7 +10,7 @@
     }
 
     .p-wrap {
-      padding: $spacing-m $spacing-s;
+      padding: $spacing-ml $spacing-m;
       background: $main-color; 
       transition: all .15s ease-in;
       &:active { 
@@ -29,7 +29,7 @@
         }
       }
       @media (max-width: 942px) {
-        padding: $spacing-xs $spacing-xs;
+        padding: $spacing-ml $spacing-m;
       }
       p {
         display: inline;
