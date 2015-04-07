@@ -43,7 +43,11 @@ window.onload = function() {
 
     //Add current class to nav based on url  
     $(function() {
-      $('nav a[href^="/' + location.pathname.split("/")[1] + '"]').addClass('current');
+        if (location.pathname == "/") {
+             $("#home").addClass('current');
+        } else {
+             $('nav a[href^="/' + location.pathname.split("/")[1] + '"]').addClass('current');
+        }
     });
 
     // Open Twitter/share in a Pop-Up
