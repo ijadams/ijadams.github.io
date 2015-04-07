@@ -4,7 +4,7 @@
   <id>http://ijadams.github.io</id>
   <link href="http://ijadams.github.io" />
   <link href="http://ijadams.github.io/atom.xml" rel="self" />
-  <updated>2015-04-05T15:01:03-05:00</updated>
+  <updated>2015-04-05T18:31:27-05:00</updated>
   <rights>Copyright 2014, Ian Adams</rights>
   <author>
     <name>Ian Adams</name>
@@ -12,10 +12,10 @@
   
     <entry>
       <title>SERP Tool</title>
-      <link href="http://ijadams.github.io/2015/04/01/welcome-to-jekyll/" />
+      <link href="http://ijadams.github.io/2015/04/01/serp-tool/" />
       <summary type="html">&lt;p&gt;Check it out &lt;a href=&quot;http://previewchanges.com/~iadams/serptool&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </summary>
-      <id>http://ijadams.github.io/2015/04/01/welcome-to-jekyll/</id>
+      <id>http://ijadams.github.io/2015/04/01/serp-tool/</id>
       <updated>2015-04-01T11:57:51-05:00</updated>
       <author>
         <name>Ian Adams</name>
@@ -24,12 +24,12 @@
   
     <entry>
       <title>Sandwich Web Art...</title>
-      <link href="http://ijadams.github.io/2015/02/22/moving-to-tokyo/" />
+      <link href="http://ijadams.github.io/2015/02/22/sandwich-art/" />
       <summary type="html">&lt;p&gt;&lt;img src=&quot;//assets/img/img1.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Some fun stuff I did over the weekend. Check it out &lt;a href=&quot;http://babesuniverse.net/lilsubbies&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </summary>
-      <id>http://ijadams.github.io/2015/02/22/moving-to-tokyo/</id>
+      <id>http://ijadams.github.io/2015/02/22/sandwich-art/</id>
       <updated>2015-02-22T10:57:51-06:00</updated>
       <author>
         <name>Ian Adams</name>
@@ -38,10 +38,10 @@
   
     <entry>
       <title>CSV Formatter Built With Papa Parse JS</title>
-      <link href="http://ijadams.github.io/2015/02/17/hikari-styling-guide/" />
+      <link href="http://ijadams.github.io/2015/02/17/csv-formatter/" />
       <summary type="html">&lt;p&gt;Check it out &lt;a href=&quot;http://previewchanges.com/~iadams/hsformatter&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </summary>
-      <id>http://ijadams.github.io/2015/02/17/hikari-styling-guide/</id>
+      <id>http://ijadams.github.io/2015/02/17/csv-formatter/</id>
       <updated>2015-02-17T10:57:51-06:00</updated>
       <author>
         <name>Ian Adams</name>
