@@ -8,7 +8,7 @@ description: "Ian Adams - Online Portfolio"
 author: "Ian Adams"
 
 url: "http://ijadams.github.io"
-baseurl: "example"
+baseurl: ""
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
 author-bio: "23-year old producer of web, audio, and visual things."
