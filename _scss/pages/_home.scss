@@ -3,21 +3,21 @@
   li { 
     display: inline-block; 
     width: 100%; 
-    border-bottom: 2px solid white; 
+    border-bottom: 1px solid white; 
     
     &:first-child {
-      border-top: 1px solid darken($main-color, 6%); 
+     // border-top: 1px solid darken($main-color, 6%); 
     }
 
     .p-wrap {
-      padding: $spacing-ml $spacing-m;
+      padding: $spacing-m $spacing-m;
       background: $main-color; 
       transition: all .15s ease-in;
       &:active { 
         background: darken($main-color, 3%);
       }
       &:hover {
-        background: lighten($main-color, 3%); 
+        background: lighten($second-color, 3%); 
         padding-left: $spacing-m + $spacing-s;
         &::after {
           content:'\2192'; 
@@ -38,7 +38,7 @@
     } // end .p-wrap
 
     time {
-      color: darken($main-color, 20%); 
+      color: darken($main-color, 30%); 
       font-weight:100;
       padding-right: $spacing-s;
       @media (max-width: 942px) {
@@ -82,5 +82,5 @@
 
 
 #info {
-	padding: 0 $spacing-m $spacing-m $spacing-m;
+	padding: 0 $spacing-m $spacing-l $spacing-m;
 }

@@ -1,9 +1,18 @@
-footer { 
-  padding: $spacing-s;
+footer {
+  font-size:2em; 
+  padding:i $spacing-xs $spacing-s;
   width: 100%;
   bottom: 0;
   left: 0;
   text-align: center; 
   small { text-transform: uppercase; }
   font-weight: 700;
+}
+
+footer a {
+   color: $main-color;
+}
+
+footer a:hover {
+   color: $second-color;
 }
