@@ -4,7 +4,7 @@
   <id>http://ijadams.github.io</id>
   <link href="http://ijadams.github.io" />
   <link href="http://ijadams.github.io/atom.xml" rel="self" />
-  <updated>2015-04-07T18:20:35-05:00</updated>
+  <updated>2015-04-07T23:32:54-05:00</updated>
   <rights>Copyright 2014, Ian Adams</rights>
   <author>
     <name>Ian Adams</name>
@@ -25,7 +25,7 @@
     <entry>
       <title>Sandwich Web Art...</title>
       <link href="http://ijadams.github.io/2015/02/22/sandwich-art/" />
-      <summary type="html">&lt;p&gt;&lt;img src=&quot;//assets/img/img1.jpg&quot; /&gt;&lt;/p&gt;
+      <summary type="html">&lt;p&gt;&lt;img src=&quot;/assets/img/img1.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Some fun stuff I did over the weekend. Check it out &lt;a href=&quot;http://babesuniverse.net/lilsubbies&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </summary>
