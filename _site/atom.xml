@@ -4,7 +4,7 @@
   <id>http://ijadams.github.io</id>
   <link href="http://ijadams.github.io" />
   <link href="http://ijadams.github.io/atom.xml" rel="self" />
-  <updated>2015-04-09T19:08:07-05:00</updated>
+  <updated>2015-04-09T19:37:44-05:00</updated>
   <rights>Copyright 2014, Ian Adams</rights>
   <author>
     <name>Ian Adams</name>
@@ -49,15 +49,13 @@
     </entry>
   
     <entry>
-      <title>Simple Gallery // For a Gallery</title>
+      <title>A Simple Gallery - For a Gallery</title>
       <link href="http://ijadams.github.io/2014/12/05/simple-gallery/" />
-      <summary type="html">&lt;p&gt;As part of this year’s &lt;a href=&quot;http://www.prospectneworleans.org/p3plus/&quot;&gt;Prospect New Orleans&lt;/a&gt;, I built a site for one of the many galleries featured in the event. Janet Levy is a great art creator and curator who asked me for help building a site to showcase her exhibition. The exhibition was based in the Free Mason’s temple on Rampart. The building was super spooky and cool, and served as a great place to hold on art exhibition. As for the site, I used a simple responsive grid and Lokesh Dhakar’s Lightbox JS to make a simplistic one page representation of the gallery. &lt;a href=&quot;http://janetlevyprojects.com&quot;&gt;Here&lt;/a&gt; is what the finished site looks like…Excited to do more work again next Prospect! 
-~
-~
-~
-~
-~
-~&lt;/p&gt;
+      <summary type="html">&lt;p&gt;As part of this year’s &lt;a href=&quot;http://www.prospectneworleans.org/p3plus/&quot;&gt;Prospect New Orleans&lt;/a&gt;, I built a site for one of the many galleries featured in the event. Janet Levy is a great art creator and curator who asked me for help building a site to showcase her exhibition. The exhibition was based in the Free Mason’s temple on Rampart. The building was super spooky and cool, and served as a great place to hold on art exhibition. As for the site, I used a simple responsive grid and Lokesh Dhakar’s Lightbox JS to make a simplistic one page representation of the gallery. &lt;a href=&quot;http://janetlevyprojects.com&quot;&gt;Here&lt;/a&gt; is what the finished site looks like…Excited to do more work again next Prospect! &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;http://janetlevyprojects.com/cry-me-a-river/img/star.jpg&quot; style=&quot;height:40%;&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;Alia Penner // Five Stars, 2014 (One of the pieces featured)&lt;/center&gt;
 </summary>
       <id>http://ijadams.github.io/2014/12/05/simple-gallery/</id>
       <updated>2014-12-05T10:57:51-06:00</updated>
