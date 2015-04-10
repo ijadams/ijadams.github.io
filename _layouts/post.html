@@ -4,21 +4,20 @@ layout: default
 
 <section class="single-wrap">
   <article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
-    <div class="feat">
-      <h5 class="page-date">
-        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-          {{ page.date | date_to_long_string }}
-        </time>
-      </h5>
+    <div id="postName">
+	<h1 class="page-title1" itemprop="name headline">{{ page.title }}</h1>
     </div>
-    <h1 class="page-title" itemprop="name headline">{{ page.title }}</h1>
-    <div itemprop="articleBody">
+    <div id="bodyContent">
       {{ content }}
+    
     </div>
+       <!--  <h5 class="pageDate1">
+           <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            {{ page.date | date_to_long_string }}
+           </time>
+         </h5>
+        -->
     <div class="feat share">
-      <a href="http://twitter.com/share" class="popup">
-        <span class="icon-twitter"></span>
-      </a>
     </div>
     {% if page.next %}
       <a rel="next" href="{{ site.baseurl }}{{ page.next.url }}" id="next">

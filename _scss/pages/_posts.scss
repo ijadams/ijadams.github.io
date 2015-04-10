@@ -35,8 +35,6 @@
   }
 
   .page-date {
-    display: inline-block;
-    position: relative;
     top: 1.1em;
     background: $bg-color;
     font-family: $variant-family;
@@ -54,11 +52,11 @@
   }
 
   h1.page-title {
-    font-size: 180%;
-    line-height: 135%;
+    font-weight: 700;
+    font-size: 1em;
     font-family: $font-family;
-    text-align: center;
-    margin: 0 0 $spacing-m;
+    float:left;
+    margin: 0 0 $spacing-xs;
   }
 
   ul, 
@@ -103,20 +101,22 @@
 
 #prev,
 #next {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  transition: all .2s ease-in-out;
   position: fixed;
   text-decoration: none;
-  background: $bg-color;
-  border: 1px solid $border-color;
   padding: $spacing-xs;
   line-height: 1;
-  border-radius: 100px;
   bottom: $spacing-m;
-  color: #333;
+  color: #BDC3C7;
   @media (max-width: 942px) {
     position: static;
     padding: .8em $spacing-s .7em;
   }
 }
+#prev:hover {transform: scale(1.1); color:#333}
+#next:hover {transform: scale(1.1); color:#333}
 
 #prev { 
   left: 40px; 
@@ -157,4 +157,20 @@
 #prev:hover .nav-title,
 #next:hover .nav-title {
   display: inline;
+}
+
+#postName {
+display: inline;
+}
+
+#postName h1 {
+text-align:none;
+font-size: 1.5em;
+font-weight: 400;
+font-style: italic;
+}
+
+h5 {
+text-align:right;
+margin: 0;
 }
