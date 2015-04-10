@@ -4,7 +4,7 @@
   <id>http://ijadams.github.io</id>
   <link href="http://ijadams.github.io" />
   <link href="http://ijadams.github.io/atom.xml" rel="self" />
-  <updated>2015-04-09T19:37:44-05:00</updated>
+  <updated>2015-04-09T20:33:13-05:00</updated>
   <rights>Copyright 2014, Ian Adams</rights>
   <author>
     <name>Ian Adams</name>
@@ -39,7 +39,9 @@
     <entry>
       <title>CSV Formatter Built With Papa Parse JS</title>
       <link href="http://ijadams.github.io/2015/02/17/csv-formatter/" />
-      <summary type="html">&lt;p&gt;Check it out &lt;a href=&quot;http://previewchanges.com/~iadams/hsformatter&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <summary type="html">&lt;p&gt;For this project, I wanted to automate a busienss process that I found particularly annoying at my old position. Hootsuite is a social media application that allows you to schedule social media posts in bulk and across different platforms. Our company was doing a lot of manual scheduling on HS, and not taking full advantage of the bulk uploading component that allows you to upload CSVs of posts. In order to increase efficiency, I decided to make a tool that would reformat our social media posts spreadhseets to conform to Hootsuite’s bulk uploader standards. This meant a lot of parsing of CSVs and nested arrays. I was able to use &lt;a href=&quot;http://papaparse.com&quot;&gt;PapaParse JS&lt;/a&gt;, which was extremely helpful and fast. Papaparse does a lot of cool stuff and coming from an Econemetrics background, it’s a great way to parse data and display in it nice ways. Check out the code &lt;a href=&quot;https://github.com/ijadams/hsformatter&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Check out the live demo &lt;a href=&quot;http://previewchanges.com/~iadams/hsformatter&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </summary>
       <id>http://ijadams.github.io/2015/02/17/csv-formatter/</id>
       <updated>2015-02-17T10:57:51-06:00</updated>
