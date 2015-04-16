@@ -84,3 +84,6 @@
 #info {
 	padding: 0 $spacing-m $spacing-l $spacing-m;
 }
+
+#info a {color:#03A678; text-decoration:none;}
+#info a:hover {opacity:0.8;}

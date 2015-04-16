@@ -20,7 +20,7 @@ github: ijadams
 # Google Analytics (you may want to changes these with yours or even delete :)
 
 ga_domain: ijadams.github.io
-ga_tracking_id: 
+ga_tracking_id: UA-61925917-1
 
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 
