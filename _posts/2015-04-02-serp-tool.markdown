@@ -4,4 +4,4 @@ title:  "SERP Tool"
 date:   2015-04-1 16:57:51
 ---
 
-Check it out <a href="http://previewchanges.com/~iadams/serptool">here</a>.
+Check it out <a href="https://github.com/ijadams/serp-chrome-ext">here</a>.
