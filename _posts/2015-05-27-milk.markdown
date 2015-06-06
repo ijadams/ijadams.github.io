@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Milk"
+date:   2015-02-17 16:57:51
+---
+
+This was a fun project I did experimenting with JQuery and HTML5. The playbackRate property of the audio and video elements change as the cursor gets further away from the center of the window. All of the milk sounds were made using Text Edit and Audacity. 
+ 
+
+Check it out here <a href="http://babesuniverse.net/milk">here</a>.
