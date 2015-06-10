@@ -4,7 +4,8 @@ title:  "SERP Tool"
 date:   2015-04-1 16:57:51
 ---
 
-I started out adaptina php library I found on Github in hopes of finding an automatic solution. Unfortunately, Google doesn't offer a search API and is hip to restricting automated requests. This makes it really hard to search for a large list of terms without burning through a ton of proxies. Ultimately, it ended up being better to go with a semi-automatic Chrome extension and user script.   
+
+The goal of this project was to create a user friendly solution to getting keyword rankings from Google. Search results are unique to the user - usually based on search history, geographic location, and other factors - but this tool would be a helpful way for people to see how their marketing efforts are effecting their SEO. I started out adapting a PHP library I found on Github in hopes of finding an automatic solution and it worked great until it was time to scale. Unfortunately, Google doesn't offer a search API and isn't really hip to people restricting automated requests. This makes it really hard to search for a large list of terms without burning through a ton of proxies. Ultimately, it ended up being better to go with a semi-automatic Chrome extension and user script. Even though the intial goal wasn't fully realized, I really learned a lot about how web scraping works and look forward to using these skills for some cool data oriented projects in the future!
 
 Check it out <a href="https://github.com/ijadams/serp-chrome-ext">here</a>.
 
