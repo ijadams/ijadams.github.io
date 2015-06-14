@@ -126,6 +126,13 @@ header {
   }
 }
 
+
+  @media (max-width:750px) {
+    img#logo {
+        height: 50px !important;
+    }
+  }
+
 .off-canvas {
   @extend %transition;
   @extend %padding-large;
@@ -139,6 +146,7 @@ header {
   overflow: scroll;
 
   // insuring that off-canvas doesn't take more than the average iPhone portrait width under 400px
+
   @media (max-width: 399px) {
     max-width: 320px;
   }
