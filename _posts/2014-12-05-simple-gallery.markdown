@@ -8,4 +8,4 @@ As part of this year's <a href="http://www.prospectneworleans.org/p3plus/">Prosp
 
 <br>
 <img src="http://janetlevyprojects.com/cry-me-a-river/img/star.jpg" style="height:40%;"/>
-<center>Alia Penner // Five Stars, 2014 (One of the pieces featured)</center>
+<center>Alia Penner // Five Stars, 2014</center>
