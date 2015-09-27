@@ -1,0 +1,274 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'install' ]
+2 info using npm@2.11.2
+3 info using node@v0.12.5
+4 verbose readDependencies loading dependencies from /Applications/MAMP/htdocs/ijadams.github.io/package.json
+5 warn package.json angularsite2@0.0.0 No license field.
+6 verbose install where, deps [ '/Applications/MAMP/htdocs/ijadams.github.io',
+6 verbose install   [ 'grunt',
+6 verbose install     'grunt-autoprefixer',
+6 verbose install     'grunt-concurrent',
+6 verbose install     'grunt-contrib-clean',
+6 verbose install     'grunt-contrib-concat',
+6 verbose install     'grunt-contrib-connect',
+6 verbose install     'grunt-contrib-copy',
+6 verbose install     'grunt-contrib-cssmin',
+6 verbose install     'grunt-contrib-htmlmin',
+6 verbose install     'grunt-contrib-imagemin',
+6 verbose install     'grunt-contrib-jshint',
+6 verbose install     'grunt-contrib-uglify',
+6 verbose install     'grunt-contrib-watch',
+6 verbose install     'grunt-filerev',
+6 verbose install     'grunt-google-cdn',
+6 verbose install     'grunt-karma',
+6 verbose install     'grunt-newer',
+6 verbose install     'grunt-ng-annotate',
+6 verbose install     'grunt-svgmin',
+6 verbose install     'grunt-usemin',
+6 verbose install     'grunt-wiredep',
+6 verbose install     'jshint-stylish',
+6 verbose install     'karma-jasmine',
+6 verbose install     'karma-phantomjs-launcher',
+6 verbose install     'load-grunt-tasks',
+6 verbose install     'time-grunt' ] ]
+7 verbose install where, peers [ '/Applications/MAMP/htdocs/ijadams.github.io', [] ]
+8 verbose installManyTop reading for lifecycle /Applications/MAMP/htdocs/ijadams.github.io/package.json
+9 info preinstall angularsite2@0.0.0
+10 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt/package.json
+11 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-autoprefixer/package.json
+12 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-concurrent/package.json
+13 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-contrib-clean/package.json
+14 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-contrib-concat/package.json
+15 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-contrib-connect/package.json
+16 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-contrib-copy/package.json
+17 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-contrib-cssmin/package.json
+18 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-contrib-htmlmin/package.json
+19 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-contrib-imagemin/package.json
+20 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-contrib-jshint/package.json
+21 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-contrib-uglify/package.json
+22 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-contrib-watch/package.json
+23 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-filerev/package.json
+24 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-google-cdn/package.json
+25 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-karma/package.json
+26 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-newer/package.json
+27 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-ng-annotate/package.json
+28 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-svgmin/package.json
+29 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-usemin/package.json
+30 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-wiredep/package.json
+31 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/jasmine-core/package.json
+32 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/jshint-stylish/package.json
+33 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/karma/package.json
+34 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/karma-jasmine/package.json
+35 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/karma-phantomjs-launcher/package.json
+36 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/load-grunt-tasks/package.json
+37 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/phantomjs/package.json
+38 verbose installManyTop reading scoped package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/time-grunt/package.json
+39 info package.json grunt@0.4.5 No license field.
+40 info package.json grunt-contrib-copy@0.7.0 No license field.
+41 info package.json grunt-contrib-cssmin@0.12.3 No license field.
+42 info package.json grunt-contrib-connect@0.9.0 No license field.
+43 info package.json grunt-contrib-htmlmin@0.4.0 No license field.
+44 info package.json grunt-contrib-imagemin@0.9.4 No license field.
+45 info package.json grunt-contrib-watch@0.6.1 No license field.
+46 info package.json grunt-contrib-uglify@0.7.0 No license field.
+47 info package.json grunt-contrib-jshint@0.11.2 No license field.
+48 info package.json grunt-filerev@2.3.1 license should be a valid SPDX license expression
+49 info package.json grunt-google-cdn@0.4.3 license should be a valid SPDX license expression
+50 info package.json grunt-wiredep@2.0.0 No license field.
+51 info package.json grunt-svgmin@2.0.1 No license field.
+52 info package.json grunt-contrib-clean@0.6.0 No license field.
+53 info package.json grunt-contrib-concat@0.5.1 No license field.
+54 info package.json phantomjs@1.9.17 No license field.
+55 verbose readDependencies loading dependencies from /Applications/MAMP/htdocs/ijadams.github.io/package.json
+56 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt/package.json
+57 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-autoprefixer/package.json
+58 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-concurrent/package.json
+59 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-contrib-clean/package.json
+60 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-contrib-concat/package.json
+61 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-contrib-connect/package.json
+62 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-contrib-copy/package.json
+63 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-contrib-cssmin/package.json
+64 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-contrib-htmlmin/package.json
+65 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-contrib-imagemin/package.json
+66 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-contrib-jshint/package.json
+67 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-contrib-uglify/package.json
+68 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-contrib-watch/package.json
+69 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-filerev/package.json
+70 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-google-cdn/package.json
+71 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-karma/package.json
+72 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-newer/package.json
+73 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-ng-annotate/package.json
+74 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-svgmin/package.json
+75 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-usemin/package.json
+76 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/grunt-wiredep/package.json
+77 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/jasmine-core/package.json
+78 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/jshint-stylish/package.json
+79 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/karma/package.json
+80 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/karma-jasmine/package.json
+81 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/karma-phantomjs-launcher/package.json
+82 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/load-grunt-tasks/package.json
+83 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/phantomjs/package.json
+84 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/time-grunt/package.json
+85 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/.bin/karma/package.json
+86 verbose targetResolver reading package data from /Applications/MAMP/htdocs/ijadams.github.io/node_modules/.bin/phantomjs/package.json
+87 verbose already installed skipping karma-jasmine@* /Applications/MAMP/htdocs/ijadams.github.io
+88 verbose already installed skipping karma-phantomjs-launcher@* /Applications/MAMP/htdocs/ijadams.github.io
+89 verbose already installed skipping load-grunt-tasks@^3.1.0 /Applications/MAMP/htdocs/ijadams.github.io
+90 verbose already installed skipping time-grunt@^1.0.0 /Applications/MAMP/htdocs/ijadams.github.io
+91 verbose already installed skipping grunt@^0.4.5 /Applications/MAMP/htdocs/ijadams.github.io
+92 verbose already installed skipping grunt-autoprefixer@^2.0.0 /Applications/MAMP/htdocs/ijadams.github.io
+93 verbose already installed skipping grunt-concurrent@^1.0.0 /Applications/MAMP/htdocs/ijadams.github.io
+94 verbose already installed skipping grunt-contrib-clean@^0.6.0 /Applications/MAMP/htdocs/ijadams.github.io
+95 verbose already installed skipping grunt-contrib-concat@^0.5.0 /Applications/MAMP/htdocs/ijadams.github.io
+96 verbose already installed skipping grunt-contrib-connect@^0.9.0 /Applications/MAMP/htdocs/ijadams.github.io
+97 verbose already installed skipping grunt-contrib-copy@^0.7.0 /Applications/MAMP/htdocs/ijadams.github.io
+98 verbose already installed skipping grunt-contrib-cssmin@^0.12.0 /Applications/MAMP/htdocs/ijadams.github.io
+99 verbose already installed skipping grunt-contrib-htmlmin@^0.4.0 /Applications/MAMP/htdocs/ijadams.github.io
+100 verbose already installed skipping grunt-contrib-imagemin@^0.9.2 /Applications/MAMP/htdocs/ijadams.github.io
+101 verbose already installed skipping grunt-contrib-jshint@^0.11.0 /Applications/MAMP/htdocs/ijadams.github.io
+102 verbose already installed skipping grunt-contrib-uglify@^0.7.0 /Applications/MAMP/htdocs/ijadams.github.io
+103 verbose already installed skipping grunt-contrib-watch@^0.6.1 /Applications/MAMP/htdocs/ijadams.github.io
+104 verbose already installed skipping grunt-filerev@^2.1.2 /Applications/MAMP/htdocs/ijadams.github.io
+105 verbose already installed skipping grunt-google-cdn@^0.4.3 /Applications/MAMP/htdocs/ijadams.github.io
+106 verbose already installed skipping grunt-karma@* /Applications/MAMP/htdocs/ijadams.github.io
+107 verbose already installed skipping grunt-newer@^1.1.0 /Applications/MAMP/htdocs/ijadams.github.io
+108 verbose already installed skipping grunt-ng-annotate@^0.9.2 /Applications/MAMP/htdocs/ijadams.github.io
+109 verbose already installed skipping grunt-svgmin@^2.0.0 /Applications/MAMP/htdocs/ijadams.github.io
+110 verbose already installed skipping grunt-usemin@^3.0.0 /Applications/MAMP/htdocs/ijadams.github.io
+111 verbose already installed skipping grunt-wiredep@^2.0.0 /Applications/MAMP/htdocs/ijadams.github.io
+112 verbose already installed skipping jshint-stylish@^1.0.0 /Applications/MAMP/htdocs/ijadams.github.io
+113 silly install resolved []
+114 info build /Applications/MAMP/htdocs/ijadams.github.io
+115 info linkStuff angularsite2@0.0.0
+116 silly linkStuff angularsite2@0.0.0 has /Applications/MAMP/htdocs as its parent node_modules
+117 verbose linkBins angularsite2@0.0.0
+118 verbose linkMans angularsite2@0.0.0
+119 verbose rebuildBundles angularsite2@0.0.0
+120 verbose rebuildBundles [ '.bin',
+120 verbose rebuildBundles   'grunt',
+120 verbose rebuildBundles   'grunt-autoprefixer',
+120 verbose rebuildBundles   'grunt-concurrent',
+120 verbose rebuildBundles   'grunt-contrib-clean',
+120 verbose rebuildBundles   'grunt-contrib-concat',
+120 verbose rebuildBundles   'grunt-contrib-connect',
+120 verbose rebuildBundles   'grunt-contrib-copy',
+120 verbose rebuildBundles   'grunt-contrib-cssmin',
+120 verbose rebuildBundles   'grunt-contrib-htmlmin',
+120 verbose rebuildBundles   'grunt-contrib-imagemin',
+120 verbose rebuildBundles   'grunt-contrib-jshint',
+120 verbose rebuildBundles   'grunt-contrib-uglify',
+120 verbose rebuildBundles   'grunt-contrib-watch',
+120 verbose rebuildBundles   'grunt-filerev',
+120 verbose rebuildBundles   'grunt-google-cdn',
+120 verbose rebuildBundles   'grunt-karma',
+120 verbose rebuildBundles   'grunt-newer',
+120 verbose rebuildBundles   'grunt-ng-annotate',
+120 verbose rebuildBundles   'grunt-svgmin',
+120 verbose rebuildBundles   'grunt-usemin',
+120 verbose rebuildBundles   'grunt-wiredep',
+120 verbose rebuildBundles   'jasmine-core',
+120 verbose rebuildBundles   'jshint-stylish',
+120 verbose rebuildBundles   'karma',
+120 verbose rebuildBundles   'karma-jasmine',
+120 verbose rebuildBundles   'karma-phantomjs-launcher',
+120 verbose rebuildBundles   'load-grunt-tasks',
+120 verbose rebuildBundles   'phantomjs',
+120 verbose rebuildBundles   'time-grunt' ]
+121 verbose rebuild bundle /Applications/MAMP/htdocs/ijadams.github.io/node_modules/jasmine-core
+122 info build /Applications/MAMP/htdocs/ijadams.github.io/node_modules/jasmine-core
+123 info preinstall jasmine-core@2.3.4
+124 info linkStuff jasmine-core@2.3.4
+125 silly linkStuff jasmine-core@2.3.4 has /Applications/MAMP/htdocs/ijadams.github.io/node_modules as its parent node_modules
+126 verbose linkBins jasmine-core@2.3.4
+127 verbose linkMans jasmine-core@2.3.4
+128 verbose rebuildBundles jasmine-core@2.3.4
+129 info install jasmine-core@2.3.4
+130 info postinstall jasmine-core@2.3.4
+131 verbose rebuild bundle /Applications/MAMP/htdocs/ijadams.github.io/node_modules/karma
+132 info build /Applications/MAMP/htdocs/ijadams.github.io/node_modules/karma
+133 info preinstall karma@0.12.37
+134 info linkStuff karma@0.12.37
+135 silly linkStuff karma@0.12.37 has /Applications/MAMP/htdocs/ijadams.github.io/node_modules as its parent node_modules
+136 verbose linkBins karma@0.12.37
+137 verbose link bins [ { karma: './bin/karma' },
+137 verbose link bins   '/Applications/MAMP/htdocs/ijadams.github.io/node_modules/.bin',
+137 verbose link bins   false ]
+138 verbose linkMans karma@0.12.37
+139 verbose rebuildBundles karma@0.12.37
+140 verbose rebuildBundles [ '.bin',
+140 verbose rebuildBundles   'chokidar',
+140 verbose rebuildBundles   'colors',
+140 verbose rebuildBundles   'connect',
+140 verbose rebuildBundles   'di',
+140 verbose rebuildBundles   'glob',
+140 verbose rebuildBundles   'graceful-fs',
+140 verbose rebuildBundles   'http-proxy',
+140 verbose rebuildBundles   'lodash',
+140 verbose rebuildBundles   'log4js',
+140 verbose rebuildBundles   'mime',
+140 verbose rebuildBundles   'minimatch',
+140 verbose rebuildBundles   'optimist',
+140 verbose rebuildBundles   'q',
+140 verbose rebuildBundles   'rimraf',
+140 verbose rebuildBundles   'socket.io',
+140 verbose rebuildBundles   'source-map',
+140 verbose rebuildBundles   'useragent' ]
+141 silly gentlyRm /Applications/MAMP/htdocs/ijadams.github.io/node_modules/.bin/karma is being purged
+142 verbose gentlyRm don't care about contents; nuking /Applications/MAMP/htdocs/ijadams.github.io/node_modules/.bin/karma
+143 silly vacuum-fs purging /Applications/MAMP/htdocs/ijadams.github.io/node_modules/.bin/karma
+144 silly vacuum-fs quitting because other entries in /Applications/MAMP/htdocs/ijadams.github.io/node_modules/.bin
+145 info install karma@0.12.37
+146 info postinstall karma@0.12.37
+147 verbose rebuild bundle /Applications/MAMP/htdocs/ijadams.github.io/node_modules/phantomjs
+148 info build /Applications/MAMP/htdocs/ijadams.github.io/node_modules/phantomjs
+149 info preinstall phantomjs@1.9.17
+150 info linkStuff phantomjs@1.9.17
+151 silly linkStuff phantomjs@1.9.17 has /Applications/MAMP/htdocs/ijadams.github.io/node_modules as its parent node_modules
+152 verbose linkBins phantomjs@1.9.17
+153 verbose link bins [ { phantomjs: './bin/phantomjs' },
+153 verbose link bins   '/Applications/MAMP/htdocs/ijadams.github.io/node_modules/.bin',
+153 verbose link bins   false ]
+154 verbose linkMans phantomjs@1.9.17
+155 verbose rebuildBundles phantomjs@1.9.17
+156 verbose rebuildBundles [ '.bin',
+156 verbose rebuildBundles   'adm-zip',
+156 verbose rebuildBundles   'fs-extra',
+156 verbose rebuildBundles   'kew',
+156 verbose rebuildBundles   'npmconf',
+156 verbose rebuildBundles   'progress',
+156 verbose rebuildBundles   'request',
+156 verbose rebuildBundles   'request-progress',
+156 verbose rebuildBundles   'which' ]
+157 silly gentlyRm /Applications/MAMP/htdocs/ijadams.github.io/node_modules/.bin/phantomjs is being purged
+158 verbose gentlyRm don't care about contents; nuking /Applications/MAMP/htdocs/ijadams.github.io/node_modules/.bin/phantomjs
+159 silly vacuum-fs purging /Applications/MAMP/htdocs/ijadams.github.io/node_modules/.bin/phantomjs
+160 silly vacuum-fs quitting because other entries in /Applications/MAMP/htdocs/ijadams.github.io/node_modules/.bin
+161 info install phantomjs@1.9.17
+162 verbose unsafe-perm in lifecycle true
+163 info phantomjs@1.9.17 Failed to exec install script
+164 verbose stack Error: phantomjs@1.9.17 install: `node install.js`
+164 verbose stack Exit status 1
+164 verbose stack     at EventEmitter.<anonymous> (/usr/local/lib/node_modules/npm/lib/utils/lifecycle.js:213:16)
+164 verbose stack     at EventEmitter.emit (events.js:110:17)
+164 verbose stack     at ChildProcess.<anonymous> (/usr/local/lib/node_modules/npm/lib/utils/spawn.js:24:14)
+164 verbose stack     at ChildProcess.emit (events.js:110:17)
+164 verbose stack     at maybeClose (child_process.js:1015:16)
+164 verbose stack     at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+165 verbose pkgid phantomjs@1.9.17
+166 verbose cwd /Applications/MAMP/htdocs/ijadams.github.io
+167 error Darwin 14.3.0
+168 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "install"
+169 error node v0.12.5
+170 error npm  v2.11.2
+171 error code ELIFECYCLE
+172 error phantomjs@1.9.17 install: `node install.js`
+172 error Exit status 1
+173 error Failed at the phantomjs@1.9.17 install script 'node install.js'.
+173 error This is most likely a problem with the phantomjs package,
+173 error not with npm itself.
+173 error Tell the author that this fails on your system:
+173 error     node install.js
+173 error You can get their info via:
+173 error     npm owner ls phantomjs
+173 error There is likely additional logging output above.
+174 verbose exit [ 1, true ]
