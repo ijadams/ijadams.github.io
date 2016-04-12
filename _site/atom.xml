@@ -4,7 +4,7 @@
   <id>http://ijadams.github.io</id>
   <link href="http://ijadams.github.io" />
   <link href="http://ijadams.github.io/atom.xml" rel="self" />
-  <updated>2016-04-11T21:26:18-05:00</updated>
+  <updated>2016-04-12T13:19:39-05:00</updated>
   <rights>Copyright 2014, Ian Adams</rights>
   <author>
     <name>Ian Adams</name>
@@ -19,12 +19,28 @@
 
 &lt;p&gt;After drafting and designing an endless amount of different icons we felt accurately described the company&#39;s mission. The result is a logo and set of letters that picks up on the playful nature of ROM as well as the professionalism of the student musicians:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/roots.jpg&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;img style=&quot;max-width:650px;&quot; src=&quot;/assets/img/roots.jpg&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;
+The SMART principles of good logo design are:
+&lt;/p&gt;
+&lt;ul style=&quot;padding-left:20px;&quot;&gt;
+&lt;li&gt;Simple&lt;/li&gt;
+&lt;li&gt;Memorable&lt;/li&gt;
+&lt;li&gt;Appropriate&lt;/li&gt;
+&lt;li&gt;Resizable&lt;/li&gt;
+&lt;li&gt;Timeless&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+This sounds easier said then done. Building an effective logo takes a lot of elbow grease. Play into your strengths and try to minimize your weaknesses. 
+&lt;/p&gt;
 
 &lt;p&gt;
 Just for fun, here&#39;s an alternate version that will be used for apparel:
-&lt;img src=&quot;/assets/img/roots-circle.jpg&quot; /&gt;
 &lt;/p&gt;
+&lt;center&gt;&lt;img style=&quot;max-width:650px;&quot; src=&quot;/assets/img/roots-circle.jpg&quot; /&gt;&lt;/center&gt;
 </summary>
       <id>http://ijadams.github.io/2016/02/01/roots-branding/</id>
       <updated>2016-02-01T06:57:51-06:00</updated>
@@ -58,7 +74,7 @@ Also check out the user script &lt;a href=&quot;https://github.com/ijadams/serp-
       <link href="http://ijadams.github.io/2015/04/02/milk/" />
       <summary type="html">&lt;p&gt;This was a fun project I did experimenting with jQuery and HTML5. The playbackRate property of the audio and video elements change as the cursor gets further away from the center of the window. All of the milk sounds were made using Text Edit and Audacity.&lt;/p&gt;
 
-&lt;p&gt;Check it out here &lt;a href=&quot;http://ianjadams.com/milk&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Check it out &lt;a href=&quot;http://ianjadams.com/milk&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </summary>
       <id>http://ijadams.github.io/2015/04/02/milk/</id>
       <updated>2015-04-02T11:57:51-05:00</updated>
