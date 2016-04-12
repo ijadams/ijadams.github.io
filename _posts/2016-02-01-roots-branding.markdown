@@ -12,9 +12,26 @@ date:   2016-02-1 12:57:51
 
 <p>After drafting and designing an endless amount of different icons we felt accurately described the company's mission. The result is a logo and set of letters that picks up on the playful nature of ROM as well as the professionalism of the student musicians:</p>
 
-<img src="{{ site.baseurl }}/assets/img/roots.jpg">
+<center>
+<img style="max-width:650px;" src="{{ site.baseurl }}/assets/img/roots.jpg">
+</center>
+
+<p>
+The SMART principles of good logo design are:
+</p>
+<ul>
+<li>Simple</li>
+<li>Memorable</li>
+<li>Appropriate</li>
+<li>Resizable</li>
+<li>Timeless</li>
+</ul>
+<p>
+This sounds easier said then done. Building an effective logo takes a lot of elbow grease. Play into your strengths and try to minimize your weaknesses. 
+</p>
 
 <p>
 Just for fun, here's an alternate version that will be used for apparel:
-<img src="{{ site.baseurl }}/assets/img/roots-circle.jpg">
+</p>
+<center><img style="max-width:650px;" src="{{ site.baseurl }}/assets/img/roots-circle.jpg"></center>
 </p>
