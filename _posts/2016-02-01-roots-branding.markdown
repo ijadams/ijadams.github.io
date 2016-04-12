@@ -19,7 +19,7 @@ date:   2016-02-1 12:57:51
 <p>
 The SMART principles of good logo design are:
 </p>
-<ul>
+<ul style="padding-left:20px;">
 <li>Simple</li>
 <li>Memorable</li>
 <li>Appropriate</li>
@@ -34,4 +34,3 @@ This sounds easier said then done. Building an effective logo takes a lot of elb
 Just for fun, here's an alternate version that will be used for apparel:
 </p>
 <center><img style="max-width:650px;" src="{{ site.baseurl }}/assets/img/roots-circle.jpg"></center>
-</p>
