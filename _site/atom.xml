@@ -4,20 +4,47 @@
   <id>http://ijadams.github.io</id>
   <link href="http://ijadams.github.io" />
   <link href="http://ijadams.github.io/atom.xml" rel="self" />
-  <updated>2015-06-13T20:00:22-05:00</updated>
+  <updated>2016-04-11T21:26:18-05:00</updated>
   <rights>Copyright 2014, Ian Adams</rights>
   <author>
     <name>Ian Adams</name>
   </author>
   
     <entry>
+      <title>The Roots of Music - Branding &amp; Identity</title>
+      <link href="http://ijadams.github.io/2016/02/01/roots-branding/" />
+      <summary type="html">&lt;p&gt;Being a member of a marching band since I was 12 years old, I was thrilled when the The Roots of Music asked me to work with them. ROM is a non-profit that focuses on providing music education, academic support, and mentorship for New Orleans youths. &lt;/p&gt;
+
+&lt;p&gt;Ever since ROM first launched they have a identified with a seal that represented the organic mission of the organization. It served them well for their first few years, but as they grew and evolved they needed something that would be distinctive, easily consumed, and remembered. &lt;/p&gt;
+
+&lt;p&gt;After drafting and designing an endless amount of different icons we felt accurately described the company&#39;s mission. The result is a logo and set of letters that picks up on the playful nature of ROM as well as the professionalism of the student musicians:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/roots.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+Just for fun, here&#39;s an alternate version that will be used for apparel:
+&lt;img src=&quot;/assets/img/roots-circle.jpg&quot; /&gt;
+&lt;/p&gt;
+</summary>
+      <id>http://ijadams.github.io/2016/02/01/roots-branding/</id>
+      <updated>2016-02-01T06:57:51-06:00</updated>
+      <author>
+        <name>Ian Adams</name>
+      </author>
+    </entry>
+  
+    <entry>
       <title>SERP Tool</title>
       <link href="http://ijadams.github.io/2015/05/04/serp-tool/" />
-      <summary type="html">&lt;p&gt;The goal of this project was to create a user friendly solution to getting keyword rankings from Google. Search results are unique to the user - usually based on search history, geographic location, and other factors - but this tool would be a helpful way for people to see how their marketing efforts are effecting their SEO. I started out adapting a PHP library I found on Github in hopes of finding an automatic solution and it worked great until it was time to scale. Unfortunately, Google doesn’t offer a search API and isn’t really hip to people restricting automated requests. This makes it really hard to search for a large list of terms without burning through a ton of proxies. Ultimately, it ended up being better to go with a semi-automatic Chrome extension and user script. Even though the intial goal wasn’t fully realized, I really learned a lot about how web scraping works and look forward to using these skills for some cool data oriented projects in the future!&lt;/p&gt;
-
-&lt;p&gt;Check it out &lt;a href=&quot;https://github.com/ijadams/serp-chrome-ext&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Also check out the user script &lt;a href=&quot;https://github.com/ijadams/serp-user-script&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <summary type="html">&lt;p&gt;
+The goal of this project was to create a user friendly solution to getting keyword rankings from Google. Search results are unique to the user - usually based on search history, geographic location, and other factors - but this tool would be a helpful way for people to see how their marketing efforts are effecting their SEO. I started out adapting a PHP library I found on Github in hopes of finding an automatic solution and it worked great until it was time to scale. Unfortunately, Google doesn&#39;t offer a search API and isn&#39;t really hip to people restricting automated requests. This makes it really hard to search for a large list of terms without burning through a ton of proxies.
+ &lt;br /&gt; &lt;br /&gt;
+Ultimately, it ended up being better to go with a semi-automatic Chrome extension and user script. Even though the intial goal wasn&#39;t fully realized, I really learned a lot about how web scraping works and look forward to using these skills for some cool data oriented projects in the future!
+ &lt;br /&gt;
+Check it out &lt;a href=&quot;https://github.com/ijadams/serp-chrome-ext&quot;&gt;here&lt;/a&gt;.
+ &lt;br /&gt; &lt;br /&gt;
+Also check out the user script &lt;a href=&quot;https://github.com/ijadams/serp-user-script&quot;&gt;here&lt;/a&gt;.
+&lt;/p&gt;
 </summary>
       <id>http://ijadams.github.io/2015/05/04/serp-tool/</id>
       <updated>2015-05-04T11:57:51-05:00</updated>
@@ -29,9 +56,9 @@
     <entry>
       <title>Milk</title>
       <link href="http://ijadams.github.io/2015/04/02/milk/" />
-      <summary type="html">&lt;p&gt;This was a fun project I did experimenting with jQuery and HTML5. The playbackRate property of the audio and video elements change as the cursor gets further away from the center of the window. All of the milk sounds were made using Text Edit and Audacity. &lt;/p&gt;
+      <summary type="html">&lt;p&gt;This was a fun project I did experimenting with jQuery and HTML5. The playbackRate property of the audio and video elements change as the cursor gets further away from the center of the window. All of the milk sounds were made using Text Edit and Audacity.&lt;/p&gt;
 
-&lt;p&gt;Check it out here &lt;a href=&quot;http://babesuniverse.net/milk&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Check it out here &lt;a href=&quot;http://ianjadams.com/milk&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </summary>
       <id>http://ijadams.github.io/2015/04/02/milk/</id>
       <updated>2015-04-02T11:57:51-05:00</updated>
@@ -45,9 +72,9 @@
       <link href="http://ijadams.github.io/2015/02/22/sandwich-art/" />
       <summary type="html">&lt;p&gt;&lt;img src=&quot;/assets/img/img1.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Some fun stuff I did over the weekend. Check it out &lt;a href=&quot;http://babesuniverse.net/lilsubbies&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Some fun stuff I did over the weekend. Check it out &lt;a href=&quot;http://ianjadams.com/lilsubbies&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;UPDATE: After playing at SXSW in Austin for a week, I went and made this torta edition &lt;a href=&quot;http://babesuniverse.net/lilsubbies/torta&quot;&gt;here!&lt;/a&gt; Also was messing around with the Paper JS animation library while I was thinking about &amp;lt;a href-“http://babesuniverse.net/lilsubbies/cuban”&amp;gt;cubans&amp;lt;/a&amp;gt;.&lt;/p&gt;
+&lt;p&gt;UPDATE: After playing at SXSW in Austin for a week, I went and made this torta edition &lt;a href=&quot;http://ianjadams.com/lilsubbies/torta&quot;&gt;here!&lt;/a&gt; Also was messing around with the Paper JS animation library while I was thinking about &lt;a href=&quot;http://ianjadams.com/lilsubbies/cuban&quot;&gt;cubans&lt;/a&gt;.&lt;/p&gt;
 </summary>
       <id>http://ijadams.github.io/2015/02/22/sandwich-art/</id>
       <updated>2015-02-22T10:57:51-06:00</updated>
@@ -65,41 +92,6 @@
 </summary>
       <id>http://ijadams.github.io/2015/02/17/csv-formatter/</id>
       <updated>2015-02-17T10:57:51-06:00</updated>
-      <author>
-        <name>Ian Adams</name>
-      </author>
-    </entry>
-  
-    <entry>
-      <title>Custom Email Templates</title>
-      <link href="http://ijadams.github.io/2015/01/15/designing-emails/" />
-      <summary type="html">&lt;p&gt;Designing email templates is a pretty brutal endeavor. I really enjoy retro web aesthetics, but I still try to avoid working with tables at all costs. My first experience with web design was during my internship at World Trade Center New Orleans. A large part of their marketing efforts were based on their MailChimp email campaigns. Admittedly, when I offered to code a custom email template I really didn’t know what that entailed. Needless to say, I quickly developed a distaste for web design. That was a few years ago and now I love web design, but that project really made me think about going into sales or something. This week I had the chance to do a custom email template for a client. Having experienced the frustration of this kind of work in the past, I wanted to make sure I got my head straight before starting. Here’s a few resources that I found really helpful:&lt;/p&gt;
-
-&lt;p&gt;MailChimp’s &lt;a href=&quot;http://templates.mailchimp.com/resources/email-client-css-support/&quot;&gt;Email Client CSS Support Chart&lt;/a&gt;. It’s important to know what you can and can’t do in different browsers and email clients. Media queries are awesome, but when working with emails they should only enrich the content - not be integral to it. If your email’s content relies on media queries, you risk losing out on a lot of engagement with your mailing list. &lt;/p&gt;
-
-&lt;p&gt;Another great resource is &lt;a href=&quot;https://litmus.com/blog/&quot;&gt;Litmus’ Blog&lt;/a&gt;. Litmus is the email equivalent to BrowserStack and their blog is a goldmine of useful email design tips. Litmus also has a lot of great templates that are a good place to start when designing your own. I actually got to demo the Litmus software, and it worked pretty well. Almost all of my actual device displays were accurate to the emulator’s.&lt;/p&gt;
-
-&lt;p&gt;Anyways, emails can rule if you do them right. Emails are very personal, and having someone’s email address is the ultimate digital currency. Other platforms have intrinsic value systems that can distract the user from your message. Emails are personal. They really allow for the user to be submerged in a world that the content creator produces.&lt;/p&gt;
-
-</summary>
-      <id>http://ijadams.github.io/2015/01/15/designing-emails/</id>
-      <updated>2015-01-15T07:22:51-06:00</updated>
-      <author>
-        <name>Ian Adams</name>
-      </author>
-    </entry>
-  
-    <entry>
-      <title>A Simple Gallery - For a Gallery</title>
-      <link href="http://ijadams.github.io/2014/12/05/simple-gallery/" />
-      <summary type="html">&lt;p&gt;As part of this year’s &lt;a href=&quot;http://www.prospectneworleans.org/p3plus/&quot;&gt;Prospect New Orleans&lt;/a&gt;, I built a site for one of the many galleries featured in the event. Janet Levy is a great art creator and curator who asked me for help building a site to showcase her exhibition. The exhibition was based in the Free Mason’s temple on Rampart. The building was super spooky and cool, and served as a great place to hold on art exhibition. As for the site, I used a simple responsive grid and Lokesh Dhakar’s Lightbox JS to make a simplistic one page representation of the gallery. &lt;a href=&quot;http://janetlevyprojects.com&quot;&gt;Here&lt;/a&gt; is what the finished site looks like…Excited to do more work again next Prospect! &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;img src=&quot;http://janetlevyprojects.com/cry-me-a-river/img/star.jpg&quot; style=&quot;height:40%;&quot; /&gt;&lt;/p&gt;
-&lt;center&gt;Alia Penner // Five Stars, 2014 (One of the pieces featured)&lt;/center&gt;
-</summary>
-      <id>http://ijadams.github.io/2014/12/05/simple-gallery/</id>
-      <updated>2014-12-05T10:57:51-06:00</updated>
       <author>
         <name>Ian Adams</name>
       </author>
