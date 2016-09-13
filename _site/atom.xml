@@ -4,11 +4,44 @@
   <id>http://ijadams.github.io</id>
   <link href="http://ijadams.github.io" />
   <link href="http://ijadams.github.io/atom.xml" rel="self" />
-  <updated>2016-04-18T19:57:52-05:00</updated>
+  <updated>2016-09-13T17:59:39-05:00</updated>
   <rights>Copyright 2014, Ian Adams</rights>
   <author>
     <name>Ian Adams</name>
   </author>
+  
+    <entry>
+      <title>Using Sketch to storboard for Mastery Prep</title>
+      <link href="http://ijadams.github.io/2016/05/15/mastery-prep/" />
+      <summary type="html">&lt;h3&gt;Intro&lt;/h3&gt;
+&lt;p&gt;This was my first time using Sketch. I've always used Adobe CS for wire-framing/storyboarding, but after hearing good thing about Sketch 3 I decided to give it a try. &lt;/p&gt;
+
+&lt;h3&gt;Pros&lt;/h3&gt;
+&lt;p&gt;Sketch seems like a simplified version of Illustrator but utilizes the layer component of Photoshop. This makes it really easy for non-designers to pickup and communicate their ideas quickly. The focus on development is Sketch's strength - provided you are actually designing for web. I was immediately impressed with the amount of resources Sketch provides. The presets and assets designed specifically for Material Design, iOS, Android, and various screen sizes and devices can save a lot of time when creating mocks or wireframes. In addition, exporting to 2x for retina display users is super easy in Sketch.&lt;/p&gt;
+
+&lt;h3&gt;Cons&lt;/h3&gt;
+&lt;p&gt;The biggest negative of Sketch 3 is it's comparability with Adobe CS. When exporting in Sketch you are dealing with .sketch files which can be a nightmare when Adobe is expecting an .svg file. The lack extensive SVG support in Sketch is a pretty big downside.&lt;/p&gt;
+
+&lt;h3&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;I’d recommend Sketch to any UX designers or developers that don't want to get too crazy with Adobe. It's open source assets, easy interface, and artboard management make it pretty easy to pick up and feel productive. If you come from a design background it's probably easier to just stick with Illustrator, but if you're like me and want to take advantage of as many pre-made assets as possible, Sketch 3 can be a god send.&lt;/p&gt;
+
+&lt;p&gt;After drafting and designing an endless amount of different icons we felt accurately described the company's mission. The result is a logo and set of letters that picks up on the playful nature of ROM as well as the professionalism of the student musicians:&lt;/p&gt;
+
+&lt;h3&gt;Resources&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.sketchappsources.com&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;sketchappsources.com&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.learnsketch.com/tutorials.html&quot; target=&quot;_blank&quot;&gt;learnsketch.com&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=AV2OkzIGykA&quot; target=&quot;_blank&quot;&gt;LevelUp Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;img style=&quot;max-width:900px;width:100%;&quot; src=&quot;/assets/img/mastery-prep-storyboard-1.1.jpg&quot; /&gt;&lt;/center&gt;
+</summary>
+      <id>http://ijadams.github.io/2016/05/15/mastery-prep/</id>
+      <updated>2016-05-15T05:50:51-05:00</updated>
+      <author>
+        <name>Ian Adams</name>
+      </author>
+    </entry>
   
     <entry>
       <title>The Roots of Music - Branding &amp; Identity</title>
@@ -17,7 +50,7 @@
 
 &lt;p&gt;Ever since ROM first launched they have a identified with a seal that represented the organic mission of the organization. It served them well for their first few years, but as they grew and evolved they needed something that would be distinctive, easily consumed, and remembered. &lt;/p&gt;
 
-&lt;p&gt;After drafting and designing an endless amount of different icons we felt accurately described the company&#39;s mission. The result is a logo and set of letters that picks up on the playful nature of ROM as well as the professionalism of the student musicians:&lt;/p&gt;
+&lt;p&gt;After drafting and designing an endless amount of different icons we felt accurately described the company's mission. The result is a logo and set of letters that picks up on the playful nature of ROM as well as the professionalism of the student musicians:&lt;/p&gt;
 
 &lt;center&gt;
 &lt;img style=&quot;max-width:650px;&quot; src=&quot;/assets/img/roots.jpg&quot; /&gt;
@@ -38,7 +71,7 @@ This sounds easier said then done. Building an effective logo takes a lot of elb
 &lt;/p&gt;
 
 &lt;p&gt;
-Just for fun, here&#39;s an alternate version that will be used for apparel:
+Just for fun, here's an alternate version that will be used for apparel:
 &lt;/p&gt;
 &lt;center&gt;&lt;img style=&quot;max-width:650px;&quot; src=&quot;/assets/img/roots-circle.jpg&quot; /&gt;&lt;/center&gt;
 </summary>
@@ -53,9 +86,9 @@ Just for fun, here&#39;s an alternate version that will be used for apparel:
       <title>SERP Tool</title>
       <link href="http://ijadams.github.io/2015/05/04/serp-tool/" />
       <summary type="html">&lt;p&gt;
-The goal of this project was to create a user friendly solution to getting keyword rankings from Google. Search results are unique to the user - usually based on search history, geographic location, and other factors - but this tool would be a helpful way for people to see how their marketing efforts are effecting their SEO. I started out adapting a PHP library I found on Github in hopes of finding an automatic solution and it worked great until it was time to scale. Unfortunately, Google doesn&#39;t offer a search API and isn&#39;t really hip to people restricting automated requests. This makes it really hard to search for a large list of terms without burning through a ton of proxies.
+The goal of this project was to create a user friendly solution to getting keyword rankings from Google. Search results are unique to the user - usually based on search history, geographic location, and other factors - but this tool would be a helpful way for people to see how their marketing efforts are effecting their SEO. I started out adapting a PHP library I found on Github in hopes of finding an automatic solution and it worked great until it was time to scale. Unfortunately, Google doesn't offer a search API and isn't really hip to people restricting automated requests. This makes it really hard to search for a large list of terms without burning through a ton of proxies.
  &lt;br /&gt; &lt;br /&gt;
-Ultimately, it ended up being better to go with a semi-automatic Chrome extension and user script. Even though the intial goal wasn&#39;t fully realized, I really learned a lot about how web scraping works and look forward to using these skills for some cool data oriented projects in the future!
+Ultimately, it ended up being better to go with a semi-automatic Chrome extension and user script. Even though the intial goal wasn't fully realized, I really learned a lot about how web scraping works and look forward to using these skills for some cool data oriented projects in the future!
  &lt;br /&gt;
 Check it out &lt;a href=&quot;https://github.com/ijadams/serp-chrome-ext&quot;&gt;here&lt;/a&gt;.
  &lt;br /&gt; &lt;br /&gt;

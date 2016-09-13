@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using Sketch to storboard for Mastery Prep"
+title:  "Using Sketch 3 to Storyboard for Mastery Prep"
 date:   2016-05-15 10:50:51
 ---
 
