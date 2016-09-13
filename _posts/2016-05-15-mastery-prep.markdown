@@ -21,7 +21,7 @@ date:   2016-05-15 10:50:51
 
 <h3>Resources</h3>
 <ul>
-	<li><a href="http://www.sketchappsources.com" target="_blank"></a>sketchappsources.com</li>
+	<li><a href="http://www.sketchappsources.com" target="_blank">sketchappresources.com</a></li>
 	<li><a href="http://www.learnsketch.com/tutorials.html" target="_blank">learnsketch.com</a></li>
 	<li><a href="https://www.youtube.com/watch?v=AV2OkzIGykA" target="_blank">LevelUp Tutorials</a></li>
 </ul>
