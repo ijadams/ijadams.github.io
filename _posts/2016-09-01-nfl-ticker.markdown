@@ -4,9 +4,7 @@ title:  "NFL Ticker: Angular 1x + Material Design + Webpack + ES6"
 date:   2016-09-15 12:57:51
 ---
 
-<h1>NFL Ticker: Angular 1x + Material Design + Webpack + ES6</h1>
-
-<p>The Saints are <b>not good</b> this year...So um...Here's an <a href="http://ianjadams.com/nfl-ticker" target="_blank">NFL ticker</a>.</p>
+<p>The Saints are <b>not good</b> this year...Here's an <a href="http://ianjadams.com/nfl-ticker" target="_blank">NFL ticker</a>.</p>
 
 <p><a href="https://github.com/ijadams/nfl-ticker" target="_blank">Code is here</a></p>.
 
