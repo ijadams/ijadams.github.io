@@ -13,7 +13,7 @@
     <entry>
       <title>NFL Ticker: Angular 1x + Material Design + Webpack + ES6</title>
       <link href="http://ijadams.github.io/2016/09/15/nfl-ticker/" />
-      <summary type="html">&lt;p&gt;The Saints are &lt;b&gt;not good&lt;/b&gt; this year...Here's an &lt;a href=&quot;http://ec2-35-171-26-187.compute-1.amazonaws.com/nfl-ticker&quot; target=&quot;_blank&quot;&gt;NFL ticker&lt;/a&gt;.&lt;/p&gt;
+      <summary type="html">&lt;p&gt;The Saints are &lt;b&gt;not good&lt;/b&gt; this year...Here's an &lt;a href=&quot;http://s3.amazonaws.com/ijadams/ianjadams.com/nfl-ticker&quot; target=&quot;_blank&quot;&gt;NFL ticker&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/ijadams/nfl-ticker&quot; target=&quot;_blank&quot;&gt;Code is here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;.&lt;/p&gt;
@@ -87,7 +87,7 @@ Also check out the user script &lt;a href=&quot;https://github.com/ijadams/serp-
       <link href="http://ijadams.github.io/2015/04/02/milk/" />
       <summary type="html">&lt;p&gt;This was a fun project I did experimenting with jQuery and HTML5. The playbackRate property of the audio and video elements change as the cursor gets further away from the center of the window. All of the milk sounds were made using Text Edit and Audacity.&lt;/p&gt;
 
-&lt;p&gt;Check it out &lt;a href=&quot;http://ec2-35-171-26-187.compute-1.amazonaws.com/milk&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Check it out &lt;a href=&quot;http://s3.amazonaws.com/ijadams/ianjadams.com/milk&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </summary>
       <id>http://ijadams.github.io/2015/04/02/milk/</id>
       <updated>2015-04-02T11:57:51-05:00</updated>
@@ -101,9 +101,9 @@ Also check out the user script &lt;a href=&quot;https://github.com/ijadams/serp-
       <link href="http://ijadams.github.io/2015/02/22/sandwich-art/" />
       <summary type="html">&lt;p&gt;&lt;img src=&quot;/assets/img/img1.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Some fun stuff I did over the weekend. Check it out &lt;a href=&quot;http://ec2-35-171-26-187.compute-1.amazonaws.com/lilsubbies&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Some fun stuff I did over the weekend. Check it out &lt;a href=&quot;http://s3.amazonaws.com/ijadams/ianjadams.com/lilsubbies&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;UPDATE: After playing at SXSW in Austin for a week, I went and made this torta edition &lt;a href=&quot;http://ec2-35-171-26-187.compute-1.amazonaws.com/lilsubbies/torta&quot;&gt;here!&lt;/a&gt; Also was messing around with the Paper JS animation library while I was thinking about &lt;a href=&quot;http://ec2-35-171-26-187.compute-1.amazonaws.com/lilsubbies/cuban&quot;&gt;cubans&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;UPDATE: After playing at SXSW in Austin for a week, I went and made this torta edition &lt;a href=&quot;http://s3.amazonaws.com/ijadams/ianjadams.com/lilsubbies/torta&quot;&gt;here!&lt;/a&gt; Also was messing around with the Paper JS animation library while I was thinking about &lt;a href=&quot;http://s3.amazonaws.com/ijadams/ianjadams.com/lilsubbies/cuban&quot;&gt;cubans&lt;/a&gt;.&lt;/p&gt;
 </summary>
       <id>http://ijadams.github.io/2015/02/22/sandwich-art/</id>
       <updated>2015-02-22T10:57:51-06:00</updated>
