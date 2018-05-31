@@ -15,7 +15,7 @@ date:   2016-05-15 10:50:51
 <p>The biggest negative of Sketch 3 is it's comparability with Adobe CS. When exporting in Sketch you are dealing with .sketch files which can be a nightmare when Adobe is expecting an .svg file. The lack extensive SVG support in Sketch is a pretty big downside.</p>
 
 <h3>Conclusion</h3>
-<p>I’d recommend Sketch to any UX designers or developers that don't want to get too crazy with Adobe. It's open source assets, easy interface, and artboard management make it pretty easy to pick up and feel productive. If you come from a design background it's probably easier to just stick with Illustrator, but if you're like me and want to take advantage of as many pre-made assets as possible, Sketch 3 can be a god send.</p>
+<p>I’d recommend Sketch to any UX designers or developers that don't want to get too crazy with Adobe. It's open source assets, easy interface, and artboard management make it pretty easy to pick up and feel productive. If you come from a design background it is probably easier to just stick with Illustrator, but if you're like me and want to take advantage of as many pre-made assets as possible, Sketch 3 can be a god send.</p>
 
 <p>After drafting and designing an endless amount of different icons we felt accurately described the company's mission. The result is a logo and set of letters that picks up on the playful nature of ROM as well as the professionalism of the student musicians:</p>
 
